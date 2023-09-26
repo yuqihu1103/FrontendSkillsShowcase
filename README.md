@@ -1,1 +1,1 @@
-# FrontendSkillsShowcase
+# Frontend Web Development Skills Showcase
