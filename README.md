@@ -1,8 +1,11 @@
 # Frontend Web Development Skills Showcase
 # Introduction
 **Author** Yuqi Hu
+
 **Class** [CS5610 at Northeastern](https://johnguerra.co/classes/webDevelopment_fall_2023/)
+
 **Deployed URL**
+
 **Project Objectives**
 Practice and self assess the concepts for vanilla HTML + CSS + JS. Complete tasks to showcase front-end web development skills. The specific tasks are listed below.
 
