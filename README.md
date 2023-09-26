@@ -4,7 +4,7 @@
 
 **Class** [CS5610 at Northeastern](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
-**Deployed URL**
+**Deployed URL** https://yuqihu1103.github.io/FrontendSkillsShowcase/
 
 **Project Objectives**
 Practice and self assess the concepts for vanilla HTML + CSS + JS. Complete tasks to showcase front-end web development skills. The specific tasks are listed below.
@@ -20,6 +20,11 @@ Links to an external site.. Explain on each item when would you use that unit by
 6. CSS. Add a creative part of the page that uses 4 different positioning
 Links to an external site. options. Try to think and explain when would you use these options. Use that positioning to make sure that your footer stays on the bottom of the screen
 
-# Instructions to Build
+# Instructions to Build and Run the Project
+
+*Prerequisite:* You need to have Node.js installed on your system
+1. Clone the project to your local machine with `git clone https://github.com/yuqihu1103/yuqihu1103.github.io.git`
+2. Navigate to the project directory. Install all dependencies with `npm install`
+3. Run by openning the index.html file in your web browser. You can also host it on a web server of your choice
 
 # Demo
