@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    margin: 4%;
+}
+
+h1 {
+    margin-top: 3%;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+li+li h3 {
+    margin-top: 1%;
+}
