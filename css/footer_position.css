@@ -1,0 +1,39 @@
+/* Default styling for the footer */
+footer {
+    position: static;
+    transition: all 0.3s ease; /* Add a smooth transition for position changes */
+}
+
+.static {
+    position: static;
+    text-align: center;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 75;
+    left: 75;
+    width: 100%;
+    font-weight: bold;
+}
+
+.sticky {
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    text-align: right;
+    font-family: monospace;
+    font-style: italic;
+}
+
+footer:hover {
+    background-color: #3498DB;
+    color: #FFFFFF;
+}
