@@ -1,9 +1,3 @@
-/* Reset some default styles */
-body {
-    margin: 0;
-    padding: 0;
-}
-
 /* Define styles for the rows */
 .first-row {
     display: flex;
