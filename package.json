@@ -1,0 +1,19 @@
+{
+  "name": "frontendskillsshowcase",
+  "version": "1.0.0",
+  "description": "Self-assessment assignment for CS5610",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuqihu1103/FrontendSkillsShowcase.git"
+  },
+  "author": "Yuqi Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuqihu1103/FrontendSkillsShowcase/issues"
+  },
+  "homepage": "https://github.com/yuqihu1103/FrontendSkillsShowcase#readme"
+}
